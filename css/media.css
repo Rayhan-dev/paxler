@@ -1,0 +1,2307 @@
+@media (min-width: 1025px) and (max-width: 1200px) {
+  .right-content ul li {
+    font-size: 14px;
+  }
+  .iphone-part img {
+    width: 80%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  .iphone-part {
+    position: relative;
+  }
+  .blog-details p:last-child {
+    padding-left: 68px;
+  }
+  .blog-details i {
+    top: 210px;
+  }
+
+  .btn-1-custom {
+    color: rgb(255, 255, 255);
+    border: 1px solid transparent;
+    border-radius: 40px;
+    background-color: rgb(255, 155, 26);
+    padding: 10px 20px;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    margin: 0px;
+    transition: all 400ms ease-in-out 0s;
+  }
+}
+@media (min-width: 992px) and (max-width: 1024px) {
+  .btn-1-custom {
+    color: rgb(255, 255, 255);
+    border: 1px solid transparent;
+    border-radius: 40px;
+    background-color: rgb(255, 155, 26);
+    padding: 10px 20px;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    margin: 0px;
+    transition: all 400ms ease-in-out 0s;
+  }
+  .navbar-expand-md .navbar-nav {
+    align-items: center;
+  }
+  .navbar-nav li {
+    margin-left: 10px;
+    font-size: 12px;
+  }
+  .btn-2-custom {
+    margin-top: 20px;
+  }
+  .iphone-part img {
+    width: 90%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  .iphone-part {
+    position: relative;
+  }
+  .blog-details p:last-child {
+    padding-left: 20px;
+  }
+  .blog-details i {
+    top: 172px;
+  }
+  .main-part-footer i {
+    height: 45px;
+    width: 45px;
+    border: 1px solid #989898;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 50px;
+    margin-right: 9px;
+    font-size: 18px;
+    transition: 0.5s all ease-in-out;
+    margin-top: 10px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1024px) {
+  .right-content ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 0 !important;
+    font-size: 12px;
+  }
+  .navbar-expand-md .navbar-nav {
+    align-items: center;
+  }
+  .navbar-nav li {
+    margin-left: 10px;
+    font-size: 12px;
+  }
+  .btn-2-custom {
+    margin-top: 20px;
+    margin: 0;
+    margin-left: 15px;
+  }
+  .iphone-part img {
+    width: 90%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+  }
+  .iphone-part {
+    position: relative;
+  }
+  .blog-details p:last-child {
+    padding-left: 20px;
+  }
+  .blog-details i {
+    top: 172px;
+  }
+  @media (min-width: 768px) and (max-width: 991px) {
+    .footer-newsletter h5 {
+    }
+    .footer-logo-image img {
+      width: 83%;
+    }
+    .footer-cotnact-details p {
+      padding-left: 16px;
+      padding-top: 43px;
+    }
+    .main-part-footer i {
+      height: 45px;
+      width: 45px;
+      border: 1px solid #989898;
+      text-align: center;
+      line-height: 45px;
+      border-radius: 50px;
+      margin-right: 9px;
+      font-size: 18px;
+      transition: 0.5s all ease-in-out;
+      margin-top: 20px;
+    }
+    .blog-details i {
+      color: rgb(255, 255, 255);
+      background-color: rgb(242, 108, 79);
+      padding: 14px;
+      border: 1px solid transparent;
+      border-radius: 50px;
+      font-size: 16px;
+      position: absolute;
+      top: 154px;
+      overflow: hidden;
+      left: 12px;
+      transition: all 0.5s ease-in-out 0s;
+    }
+    .iphone-part {
+      position: relative;
+    }
+    .top-header-right {
+      margin-left: 162px !important;
+    }
+    .service-section {
+      text-align: center;
+      padding: 20px 0px;
+    }
+    .header-elements {
+      align-items: center;
+    }
+    .top-header-right ul li {
+      padding: 0px 18px;
+    }
+    .navbar-expand-md .navbar-nav {
+      flex-direction: row;
+      align-items: center;
+    }
+    .btn-2-custom {
+      color: rgb(255, 255, 255);
+      border: 1px solid rgb(255, 255, 255);
+      border-radius: 40px;
+      font-family: Montserrat;
+      text-transform: uppercase;
+      padding: 10px 20px;
+      margin: 0px 25px;
+      transition: all 400ms ease-in-out 0s;
+      margin-top: 12px;
+    }
+    .navbar-nav li {
+      margin-left: 5px;
+      font-size: 11px;
+    }
+    .nav-btn-custom {
+      font-family: "Source Sans Pro", sans-serif;
+      text-transform: uppercase;
+      background-color: rgb(255, 155, 26);
+      border: 1px solid transparent;
+      border-radius: 50px;
+      font-size: 10px;
+      color: rgb(255, 255, 255);
+      transition: all 400ms ease-in-out 0s;
+    }
+    .top-header-left {
+      padding-bottom: 5px;
+      text-align: center;
+      margin-right: 0 !important;
+    }
+    .navbar-collapse {
+      flex-basis: 100%;
+      flex-grow: 1;
+      align-items: center;
+      text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      color: rgba(0, 0, 0, 0.7);
+      display: inline-block;
+    }
+    .design-section img {
+      width: 100%;
+    }
+    .banner-section h1 {
+      text-align: center;
+      font-family: Raleway, sans-serif;
+      padding: 20px 0px;
+      font-weight: bold;
+      font-size: 38px;
+    }
+    .banner-details {
+      text-align: center;
+      font-family: Raleway;
+      font-size: 16px;
+      padding-bottom: 20px;
+    }
+    .banner-section {
+      background-image: url(../images/banner.png);
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: rgb(255, 255, 255);
+      min-height: 55vh;
+    }
+    .square-boxes {
+      margin-bottom: 20px;
+    }
+    .footer-cotnact-details {
+      padding-top: 22px;
+    }
+    .service-types {
+      transition: all 400ms ease-in-out 0s;
+      padding: 12px;
+    }
+    .services {
+      font-family: Raleway;
+      padding-bottom: 20px;
+    }
+    .iphone-part img {
+      padding-top: 130px;
+      width: 100%;
+      position: absolute;
+      bottom: 0;
+      left: -45px;
+    }
+    .iphone-text-details {
+      position: relative;
+      padding: 15px 0px;
+    }
+    .iphone-text {
+    }
+    .counting-part {
+      padding: 15px 0px;
+    }
+
+    element.style {
+    }
+    .form-row {
+      padding: 30px 30px 0px 30px;
+    }
+    .form-section {
+      text-align: center;
+      background-image: url(../images/free consultation bg.png);
+      background-position: center center;
+      background-repeat: no-repeat;
+      font-family: Montserrat;
+      background-size: cover;
+      padding: 15px 0px;
+    }
+    .blogs {
+      position: relative;
+      font-family: Montserrat;
+      border: 1px solid rgb(173, 173, 173);
+      border-radius: 12px;
+    }
+    .big-footer {
+      font-family: "Montserrat";
+      background-color: #101010;
+      padding: 85px 0px;
+      text-align: center;
+    }
+    .footer-contact {
+      text-align: left;
+    }
+    .footer-quick-links {
+      text-align: left;
+    }
+    .footer-newsletter input {
+      border: 1px solid transparent;
+      border-radius: 50px;
+      padding: 10px 12px;
+      margin-top: 46px;
+      width: 116%;
+      margin: auto;
+    }
+    .btn-footer {
+      color: #fff !important;
+      background-color: #fb8f2c;
+      border-radius: 50px;
+      padding: 0;
+      padding: 10px 15px;
+      right: -24px;
+      position: absolute;
+      bottom: 0;
+    }
+    .footer-newsletter p {
+      padding-top: 63px;
+      text-align: left;
+    }
+    .footer-newsletter span::after {
+      content: "";
+      position: absolute;
+      right: 0;
+
+      bottom: 0;
+      height: 3px;
+      width: 0px;
+      background-color: rgb(242, 108, 79);
+      transition: 0.5s all ease-in-out;
+    }
+    .footer-newsletter:hover span::after {
+      width: 40px;
+    }
+    .right-content ul li a {
+      text-decoration: none;
+      color: #737272;
+      font-family: "Montserrat";
+      font-size: 12px;
+    }
+    .small-footer {
+      background-color: #000000;
+      padding: 23px 0px;
+      text-align: center;
+    }
+    .small-footer .right-content {
+      padding: 10px 0px;
+    }
+    .owl-carousel .owl-item img {
+      display: block;
+      width: 14%;
+      border: 1px solid rgb(150, 150, 150);
+      border-radius: 78px;
+      margin: auto;
+    }
+    .iphone-heading span {
+      position: relative;
+      display: none;
+    }
+    .iphone-heading h2 {
+      text-transform: uppercase;
+      padding-bottom: 30px;
+      text-align: center;
+    }
+    .nav-btn-custom:hover {
+      border: 1px solid rgb(255, 155, 26);
+      background-color: transparent;
+      color: rgb(255, 155, 26);
+      transition: all 400ms ease-in-out 0s;
+      margin-top: 5px;
+    }
+  }
+
+  @media (min-width: 576px) and (max-width: 767px) {
+    .top-header-left {
+      padding-bottom: 5px;
+      text-align: center;
+    }
+    .navbar-collapse {
+      flex-basis: 100%;
+      flex-grow: 1;
+      align-items: center;
+      text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      color: rgba(0, 0, 0, 0.7);
+      display: inline-block;
+    }
+    .design-section img {
+      width: 100%;
+    }
+    .banner-section h1 {
+      text-align: center;
+      font-family: Raleway, sans-serif;
+      padding: 20px 0px;
+      font-weight: bold;
+      font-size: 38px;
+    }
+    .banner-details {
+      text-align: center;
+      font-family: Raleway;
+      font-size: 16px;
+      padding-bottom: 20px;
+    }
+    .banner-section {
+      background-image: url(../images/banner.png);
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: rgb(255, 255, 255);
+      min-height: 55vh;
+    }
+    .square-boxes {
+      margin-bottom: 20px;
+    }
+    .footer-cotnact-details {
+      padding-top: 22px;
+    }
+    .service-types {
+      transition: all 400ms ease-in-out 0s;
+      padding: 12px;
+    }
+    .services {
+      font-family: Raleway;
+      padding-bottom: 20px;
+    }
+    .iphone-part img {
+      padding-top: 130px;
+      display: none;
+    }
+    .iphone-text-details {
+      position: relative;
+      padding: 15px 0px;
+    }
+    .iphone-text {
+      padding: 45px;
+    }
+    .counting-part {
+      padding: 15px 0px;
+    }
+
+    element.style {
+    }
+    .form-row {
+      padding: 30px 30px 0px 30px;
+    }
+    .form-section {
+      text-align: center;
+      background-image: url(../images/free consultation bg.png);
+      background-position: center center;
+      background-repeat: no-repeat;
+      font-family: Montserrat;
+      background-size: cover;
+      padding: 15px 0px;
+    }
+    .blogs {
+      position: relative;
+      font-family: Montserrat;
+      border: 1px solid rgb(173, 173, 173);
+      border-radius: 12px;
+      text-align: center;
+      margin: 19px 102px;
+    }
+    .big-footer {
+      font-family: "Montserrat";
+      background-color: #101010;
+      padding: 85px 0px;
+      text-align: center;
+    }
+    .footer-contact {
+      text-align: left;
+      padding: 26px;
+    }
+    .footer-quick-links {
+      text-align: left;
+      padding: 48px;
+    }
+    .footer-newsletter input {
+      border: 1px solid transparent;
+      border-radius: 50px;
+      padding: 10px 12px;
+      margin-top: 46px;
+      width: 60%;
+      margin: auto;
+    }
+    .btn-footer {
+      color: #fff !important;
+      background-color: #fb8f2c;
+      border-radius: 50px;
+      padding: 0;
+      padding: 10px 25px;
+      right: 105px;
+      position: absolute;
+      bottom: 0;
+    }
+    .footer-newsletter p {
+      padding-top: 22px;
+    }
+    .footer-newsletter span::after {
+      content: "";
+      position: absolute;
+      right: 0;
+
+      bottom: 0;
+      height: 3px;
+      width: 0px;
+      background-color: rgb(242, 108, 79);
+      transition: 0.5s all ease-in-out;
+    }
+    .footer-newsletter:hover span::after {
+      width: 40px;
+    }
+    .right-content ul li a {
+      text-decoration: none;
+      color: #737272;
+      font-family: "Montserrat";
+      font-size: 12px;
+    }
+    .small-footer {
+      background-color: #000000;
+      padding: 23px 0px;
+      text-align: center;
+    }
+    .small-footer .right-content {
+      padding: 10px 0px;
+    }
+    .owl-carousel .owl-item img {
+      display: block;
+      width: 14%;
+      border: 1px solid rgb(150, 150, 150);
+      border-radius: 78px;
+      margin: auto;
+    }
+    .iphone-heading span {
+      position: relative;
+      display: none;
+    }
+    .iphone-heading h2 {
+      text-transform: uppercase;
+      padding-bottom: 30px;
+      text-align: center;
+    }
+    .nav-btn-custom:hover {
+      border: 1px solid rgb(255, 155, 26);
+      background-color: transparent;
+      color: rgb(255, 155, 26);
+      transition: all 400ms ease-in-out 0s;
+      margin-top: 5px;
+    }
+  }
+  @media (min-width: 0px) and (max-width: 575px) {
+    .top-header-left {
+      padding-bottom: 5px;
+      text-align: center;
+    }
+    .navbar-collapse {
+      flex-basis: 100%;
+      flex-grow: 1;
+      align-items: center;
+      text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      color: rgba(0, 0, 0, 0.7);
+      display: inline-block;
+    }
+    .design-section img {
+      width: 100%;
+    }
+    .banner-section h1 {
+      text-align: center;
+      font-family: Raleway, sans-serif;
+      padding: 20px 0px;
+      font-weight: bold;
+      font-size: 38px;
+    }
+    .banner-details {
+      text-align: center;
+      font-family: Raleway;
+      font-size: 16px;
+      padding-bottom: 20px;
+    }
+    .banner-section {
+      background-image: url(../images/banner.png);
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: rgb(255, 255, 255);
+      min-height: 55vh;
+    }
+    .square-boxes {
+      margin-bottom: 20px;
+    }
+    .service-types {
+      transition: all 400ms ease-in-out 0s;
+      padding: 12px;
+    }
+    .services {
+      font-family: Raleway;
+      padding-bottom: 20px;
+    }
+    .iphone-part img {
+      padding-top: 130px;
+      display: none;
+    }
+    .iphone-text-details {
+      position: relative;
+      padding: 15px 0px;
+    }
+    .iphone-text {
+      padding: 45px;
+    }
+    .counting-part {
+      padding: 15px 0px;
+    }
+
+    element.style {
+    }
+    .form-row {
+      padding: 30px 30px 0px 30px;
+    }
+    .form-section {
+      text-align: center;
+      background-image: url(../images/free consultation bg.png);
+      background-position: center center;
+      background-repeat: no-repeat;
+      font-family: Montserrat;
+      background-size: cover;
+      padding: 15px 0px;
+    }
+    .blogs {
+      position: relative;
+      font-family: Montserrat;
+      border: 1px solid rgb(173, 173, 173);
+      border-radius: 12px;
+      text-align: center;
+      margin: 19px 102px;
+    }
+    .big-footer {
+      font-family: "Montserrat";
+      background-color: #101010;
+      padding: 85px 0px;
+      text-align: center;
+    }
+    .footer-contact {
+      text-align: left;
+      padding: 26px;
+    }
+    .footer-quick-links {
+      text-align: left;
+      padding: 48px;
+    }
+    .footer-newsletter input {
+      border: 1px solid transparent;
+      border-radius: 50px;
+      padding: 10px 12px;
+      margin-top: 46px;
+      width: 60%;
+      margin: auto;
+    }
+    .btn-footer {
+      color: #fff !important;
+      background-color: #fb8f2c;
+      border-radius: 50px;
+      padding: 0;
+      padding: 10px 25px;
+      right: 111px;
+      position: absolute;
+      bottom: 0;
+    }
+    .footer-newsletter p {
+      padding-top: 22px;
+    }
+    .footer-newsletter span::after {
+      content: "";
+      position: absolute;
+      right: 0;
+
+      bottom: 0;
+      height: 3px;
+      width: 0px;
+      background-color: rgb(242, 108, 79);
+      transition: 0.5s all ease-in-out;
+    }
+    .footer-newsletter:hover span::after {
+      width: 40px;
+    }
+    .right-content ul li a {
+      text-decoration: none;
+      color: #737272;
+      font-family: "Montserrat";
+      font-size: 12px;
+    }
+    .small-footer {
+      background-color: #000000;
+      padding: 23px 0px;
+      text-align: center;
+    }
+    .small-footer .right-content {
+      padding: 10px 0px;
+    }
+    .owl-carousel .owl-item img {
+      display: block;
+      width: 14%;
+      border: 1px solid rgb(150, 150, 150);
+      border-radius: 78px;
+      margin: auto;
+    }
+    .iphone-heading span {
+      position: relative;
+      display: none;
+    }
+    .iphone-heading h2 {
+      text-transform: uppercase;
+      padding-bottom: 30px;
+      text-align: center;
+    }
+    .nav-btn-custom:hover {
+      border: 1px solid rgb(255, 155, 26);
+      background-color: transparent;
+      color: rgb(255, 155, 26);
+      transition: all 400ms ease-in-out 0s;
+      margin-top: 5px;
+    }
+  }
+  @media (min-width: 321px) and (max-width: 375px) {
+    .right-content ul {
+      list-style: none;
+      padding: 0;
+      display: inherit;
+      justify-content: unset;
+      margin-bottom: 0 !important;
+    }
+    .top-header-left {
+      padding-bottom: 5px;
+      text-align: center;
+    }
+    .navbar-collapse {
+      flex-basis: 100%;
+      flex-grow: 1;
+      align-items: center;
+      text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      color: rgba(0, 0, 0, 0.7);
+      display: inline-block;
+    }
+    .design-section img {
+      width: 100%;
+    }
+    .banner-section h1 {
+      text-align: center;
+      font-family: Raleway, sans-serif;
+      padding: 20px 0px;
+      font-weight: bold;
+      font-size: 38px;
+    }
+    .banner-details {
+      text-align: center;
+      font-family: Raleway;
+      font-size: 16px;
+      padding-bottom: 20px;
+    }
+    .banner-section {
+      background-image: url(../images/banner.png);
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: rgb(255, 255, 255);
+      min-height: 55vh;
+    }
+    .square-boxes {
+      margin-bottom: 20px;
+    }
+    .service-types {
+      transition: all 400ms ease-in-out 0s;
+      padding: 12px;
+    }
+    .services {
+      font-family: Raleway;
+      padding-bottom: 20px;
+    }
+    .iphone-part img {
+      padding-top: 130px;
+      display: none;
+    }
+    .iphone-text-details {
+      position: relative;
+      padding: 15px 0px;
+    }
+    .iphone-text {
+      padding: 13px;
+    }
+    .counting-part {
+      padding: 15px 0px;
+    }
+
+    element.style {
+    }
+    .form-row {
+      padding: 30px 30px 0px 30px;
+    }
+    .form-section {
+      text-align: center;
+      background-image: url(../images/free consultation bg.png);
+      background-position: center center;
+      background-repeat: no-repeat;
+      font-family: Montserrat;
+      background-size: cover;
+      padding: 15px 0px;
+    }
+    .blogs {
+      position: relative;
+      font-family: Montserrat;
+      border: 1px solid rgb(173, 173, 173);
+      border-radius: 12px;
+      text-align: center;
+      margin: 12px 7px;
+    }
+    .big-footer {
+      font-family: "Montserrat";
+      background-color: #101010;
+      padding: 85px 0px;
+      text-align: center;
+    }
+    .footer-contact {
+      text-align: left;
+      padding: 26px;
+    }
+    .footer-quick-links {
+      text-align: left;
+      padding: 48px;
+    }
+    .footer-newsletter input {
+      border: 1px solid transparent;
+      border-radius: 50px;
+      padding: 10px 12px;
+      margin-top: 46px;
+      width: 95%;
+      margin: auto;
+    }
+    .btn-footer {
+      color: #fff !important;
+      background-color: #fb8f2c;
+      border-radius: 50px;
+      padding: 0;
+      padding: 10px 25px;
+      right: 8px;
+      position: absolute;
+      bottom: 0;
+    }
+    .footer-newsletter p {
+      padding-top: 22px;
+    }
+    .footer-newsletter span::after {
+      content: "";
+      position: absolute;
+      right: 0;
+
+      bottom: 0;
+      height: 3px;
+      width: 0px;
+      background-color: rgb(242, 108, 79);
+      transition: 0.5s all ease-in-out;
+    }
+    .footer-newsletter:hover span::after {
+      width: 40px;
+    }
+    .right-content ul li a {
+      text-decoration: none;
+      color: #737272;
+      font-family: "Montserrat";
+      font-size: 12px;
+    }
+    .small-footer {
+      background-color: #000000;
+      padding: 23px 0px;
+      text-align: center;
+    }
+    .small-footer .right-content {
+      padding: 10px 0px;
+    }
+    .owl-carousel .owl-item img {
+      display: block;
+      width: 14%;
+      border: 1px solid rgb(150, 150, 150);
+      border-radius: 78px;
+      margin: auto;
+    }
+    .iphone-heading span {
+      position: relative;
+      display: none;
+    }
+    .iphone-heading h2 {
+      text-transform: uppercase;
+      padding-bottom: 10px;
+      text-align: center;
+      padding-top: 20px;
+    }
+    .nav-btn-custom:hover {
+      border: 1px solid rgb(255, 155, 26);
+      background-color: transparent;
+      color: rgb(255, 155, 26);
+      transition: all 400ms ease-in-out 0s;
+      margin-top: 5px;
+    }
+    .footer-cotnact-details {
+      padding-top: 8px;
+    }
+    .clients p {
+      color: rgb(110, 110, 110);
+      padding: 20px 15%;
+      font-size: 14px;
+      text-transform: capitalize;
+    }
+    .testimonial-heading {
+      padding: 9px 0px;
+    }
+    .blog-details i {
+      color: rgb(255, 255, 255);
+      background-color: rgb(242, 108, 79);
+      padding: 14px;
+      border: 1px solid transparent;
+      border-radius: 50px;
+      font-size: 16px;
+      position: absolute;
+      top: 229px;
+      overflow: hidden;
+      left: 12px;
+      transition: all 0.5s ease-in-out 0s;
+    }
+    .heading p {
+      color: rgb(110, 110, 110);
+      padding: 20px 1px;
+    }
+    .service-section {
+      text-align: center;
+      padding: 0px 0px;
+    }
+    .btn-1-custom {
+      padding: 10px 38px;
+      margin-bottom: 11px;
+    }
+    .banner-main-row {
+      min-height: 68vh;
+      align-items: center;
+      display: flex;
+    }
+    .counting-section span {
+      font-size: 25px;
+      font-weight: 500;
+    }
+    .counting-section h6 {
+      text-transform: uppercase;
+      font-size: 15px;
+      padding-top: 12px;
+    }
+    .box-row {
+      padding-top: 31px;
+    }
+  }
+  @media (min-width: 0px) and (max-width: 320px) {
+    .box-row {
+      padding-top: 30px;
+    }
+    .right-content ul {
+      list-style: none;
+      padding: 0;
+      display: inherit;
+      justify-content: unset;
+      margin-bottom: 0 !important;
+    }
+    .top-header-left {
+      padding-bottom: 5px;
+      text-align: center;
+    }
+    .navbar-collapse {
+      flex-basis: 100%;
+      flex-grow: 1;
+      align-items: center;
+      text-align: center;
+    }
+    .navbar-light .navbar-nav .nav-link {
+      color: rgba(0, 0, 0, 0.7);
+      display: inline-block;
+    }
+    .design-section img {
+      width: 100%;
+    }
+    .banner-section h1 {
+      text-align: center;
+      font-family: Raleway, sans-serif;
+      padding: 20px 0px;
+      font-weight: bold;
+      font-size: 38px;
+    }
+    .banner-details {
+      text-align: center;
+      font-family: Raleway;
+      font-size: 16px;
+      padding-bottom: 20px;
+    }
+    .banner-section {
+      background-image: url(../images/banner.png);
+      background-position: center center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: rgb(255, 255, 255);
+      min-height: 55vh;
+    }
+    .square-boxes {
+      margin-bottom: 20px;
+    }
+    .service-types {
+      transition: all 400ms ease-in-out 0s;
+      padding: 12px;
+    }
+    .services {
+      font-family: Raleway;
+      padding-bottom: 20px;
+    }
+    .iphone-part img {
+      padding-top: 130px;
+      display: none;
+    }
+    .iphone-text-details {
+      position: relative;
+      padding: 15px 0px;
+    }
+    .iphone-text {
+      padding: 13px;
+    }
+    .counting-part {
+      padding: 15px 0px;
+    }
+
+    element.style {
+    }
+    .form-row {
+      padding: 30px 30px 0px 30px;
+    }
+    .form-section {
+      text-align: center;
+      background-image: url(../images/free consultation bg.png);
+      background-position: center center;
+      background-repeat: no-repeat;
+      font-family: Montserrat;
+      background-size: cover;
+      padding: 15px 0px;
+    }
+    .blogs {
+      position: relative;
+      font-family: Montserrat;
+      border: 1px solid rgb(173, 173, 173);
+      border-radius: 12px;
+      text-align: center;
+      margin: 12px 7px;
+    }
+    .big-footer {
+      font-family: "Montserrat";
+      background-color: #101010;
+      padding: 85px 0px;
+      text-align: center;
+    }
+    .footer-contact {
+      text-align: left;
+      padding: 26px;
+    }
+    .footer-quick-links {
+      text-align: left;
+      padding: 48px;
+    }
+    .footer-newsletter input {
+      border: 1px solid transparent;
+      border-radius: 50px;
+      padding: 10px 12px;
+      margin-top: 46px;
+      width: 95%;
+      margin: auto;
+    }
+    .btn-footer {
+      color: #fff !important;
+      background-color: #fb8f2c;
+      border-radius: 50px;
+      padding: 0;
+      padding: 10px 25px;
+      right: 8px;
+      position: absolute;
+      bottom: 0;
+    }
+    .footer-newsletter p {
+      padding-top: 22px;
+    }
+    .footer-newsletter span::after {
+      content: "";
+      position: absolute;
+      right: 0;
+
+      bottom: 0;
+      height: 3px;
+      width: 0px;
+      background-color: rgb(242, 108, 79);
+      transition: 0.5s all ease-in-out;
+    }
+    .footer-newsletter:hover span::after {
+      width: 40px;
+    }
+    .right-content ul li a {
+      text-decoration: none;
+      color: #737272;
+      font-family: "Montserrat";
+      font-size: 12px;
+    }
+    .small-footer {
+      background-color: #000000;
+      padding: 23px 0px;
+      text-align: center;
+    }
+    .small-footer .right-content {
+      padding: 10px 0px;
+    }
+    .owl-carousel .owl-item img {
+      display: block;
+      width: 14%;
+      border: 1px solid rgb(150, 150, 150);
+      border-radius: 78px;
+      margin: auto;
+    }
+    .iphone-heading span {
+      position: relative;
+      display: none;
+    }
+    .iphone-heading h2 {
+      text-transform: uppercase;
+      padding-bottom: 10px;
+      text-align: center;
+      padding-top: 20px;
+    }
+    .nav-btn-custom:hover {
+      border: 1px solid rgb(255, 155, 26);
+      background-color: transparent;
+      color: rgb(255, 155, 26);
+      transition: all 400ms ease-in-out 0s;
+      margin-top: 5px;
+    }
+    .footer-cotnact-details {
+      padding-top: 8px;
+    }
+    .clients p {
+      color: rgb(110, 110, 110);
+      padding: 20px 15%;
+      font-size: 14px;
+      text-transform: capitalize;
+    }
+    .testimonial-heading {
+      padding: 9px 0px;
+    }
+    .blog-details i {
+      color: rgb(255, 255, 255);
+      background-color: rgb(242, 108, 79);
+      padding: 14px;
+      border: 1px solid transparent;
+      border-radius: 50px;
+      font-size: 16px;
+      position: absolute;
+      top: 229px;
+      overflow: hidden;
+      left: 12px;
+      transition: all 0.5s ease-in-out 0s;
+    }
+    .heading p {
+      color: rgb(110, 110, 110);
+      padding: 20px 1px;
+    }
+    .service-section {
+      text-align: center;
+      padding: 0px 0px;
+    }
+    .btn-1-custom {
+      padding: 10px 38px;
+      margin-bottom: 11px;
+    }
+    .banner-main-row {
+      min-height: 68vh;
+      align-items: center;
+      display: flex;
+    }
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .footer-newsletter h5 {
+  }
+  .footer-logo-image img {
+    width: 83%;
+  }
+  .footer-cotnact-details p {
+    padding-left: 16px;
+    padding-top: 43px;
+  }
+  .main-part-footer i {
+    height: 45px;
+    width: 45px;
+    border: 1px solid #989898;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 50px;
+    margin-right: 9px;
+    font-size: 18px;
+    transition: 0.5s all ease-in-out;
+    margin-top: 20px;
+  }
+  .blog-details i {
+    color: rgb(255, 255, 255);
+    background-color: rgb(242, 108, 79);
+    padding: 14px;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    font-size: 16px;
+    position: absolute;
+    top: 154px;
+    overflow: hidden;
+    left: 12px;
+    transition: all 0.5s ease-in-out 0s;
+  }
+  .iphone-part {
+    position: relative;
+  }
+  .top-header-right {
+    margin-left: 162px !important;
+  }
+  .service-section {
+    text-align: center;
+    padding: 20px 0px;
+  }
+  .header-elements {
+    align-items: center;
+  }
+  .top-header-right ul li {
+    padding: 0px 18px;
+  }
+  .navbar-expand-md .navbar-nav {
+    flex-direction: row;
+    align-items: center;
+  }
+  .btn-2-custom {
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 40px;
+    font-family: Montserrat;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    margin: 0px 25px;
+    transition: all 400ms ease-in-out 0s;
+    margin-top: 12px;
+  }
+  .navbar-nav li {
+    margin-left: 5px;
+    font-size: 11px;
+  }
+  .nav-btn-custom {
+    font-family: "Source Sans Pro", sans-serif;
+    text-transform: uppercase;
+    background-color: rgb(255, 155, 26);
+    border: 1px solid transparent;
+    border-radius: 50px;
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    transition: all 400ms ease-in-out 0s;
+  }
+  .top-header-left {
+    padding-bottom: 5px;
+    text-align: center;
+    margin-right: 0 !important;
+  }
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    text-align: center;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+  }
+  .design-section img {
+    width: 100%;
+  }
+  .banner-section h1 {
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    padding: 20px 0px;
+    font-weight: bold;
+    font-size: 38px;
+  }
+  .banner-details {
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    padding-bottom: 20px;
+  }
+  .banner-section {
+    background-image: url(../images/banner.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    min-height: 55vh;
+  }
+  .square-boxes {
+    margin-bottom: 20px;
+  }
+  .footer-cotnact-details {
+    padding-top: 22px;
+  }
+  .service-types {
+    transition: all 400ms ease-in-out 0s;
+    padding: 12px;
+  }
+  .services {
+    font-family: Raleway;
+    padding-bottom: 20px;
+  }
+  .iphone-part img {
+    padding-top: 130px;
+    width: 96%;
+    position: absolute;
+    bottom: 0;
+    left: -60px;
+  }
+  .iphone-text-details {
+    position: relative;
+    padding: 15px 0px;
+  }
+  .iphone-text {
+  }
+  .counting-part {
+    padding: 15px 0px;
+  }
+
+  element.style {
+  }
+  .form-row {
+    padding: 30px 30px 0px 30px;
+  }
+  .form-section {
+    text-align: center;
+    background-image: url(../images/free consultation bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: Montserrat;
+    background-size: cover;
+    padding: 15px 0px;
+  }
+  .blogs {
+    position: relative;
+    font-family: Montserrat;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 12px;
+  }
+  .big-footer {
+    font-family: "Montserrat";
+    background-color: #101010;
+    padding: 85px 0px;
+    text-align: center;
+  }
+  .footer-contact {
+    text-align: left;
+  }
+  .footer-quick-links {
+    text-align: left;
+  }
+  .footer-newsletter input {
+    border: 1px solid transparent;
+    border-radius: 50px;
+    padding: 10px 12px;
+    margin-top: 46px;
+    width: 116%;
+    margin: auto;
+  }
+  .btn-footer {
+    color: #fff !important;
+    background-color: #fb8f2c;
+    border-radius: 50px;
+    padding: 0;
+    padding: 10px 15px;
+    right: -24px;
+    position: absolute;
+    bottom: 0;
+  }
+  .footer-newsletter p {
+    padding-top: 63px;
+    text-align: left;
+  }
+  .footer-newsletter span::after {
+    content: "";
+    position: absolute;
+    right: 0;
+
+    bottom: 0;
+    height: 3px;
+    width: 0px;
+    background-color: rgb(242, 108, 79);
+    transition: 0.5s all ease-in-out;
+  }
+  .footer-newsletter:hover span::after {
+    width: 40px;
+  }
+  .right-content ul li a {
+    text-decoration: none;
+    color: #737272;
+    font-family: "Montserrat";
+    font-size: 12px;
+  }
+  .small-footer {
+    background-color: #000000;
+    padding: 23px 0px;
+    text-align: center;
+  }
+  .small-footer .right-content {
+    padding: 10px 0px;
+  }
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 14%;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 78px;
+    margin: auto;
+  }
+  .iphone-heading span {
+    position: relative;
+    display: none;
+  }
+  .iphone-heading h2 {
+    text-transform: uppercase;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .nav-btn-custom:hover {
+    border: 1px solid rgb(255, 155, 26);
+    background-color: transparent;
+    color: rgb(255, 155, 26);
+    transition: all 400ms ease-in-out 0s;
+    margin-top: 5px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .top-header-left {
+    padding-bottom: 5px;
+    text-align: center;
+  }
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    text-align: center;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+  }
+  .design-section img {
+    width: 100%;
+  }
+  .banner-section h1 {
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    padding: 20px 0px;
+    font-weight: bold;
+    font-size: 38px;
+  }
+  .banner-details {
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    padding-bottom: 20px;
+  }
+  .banner-section {
+    background-image: url(../images/banner.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    min-height: 55vh;
+  }
+  .square-boxes {
+    margin-bottom: 20px;
+  }
+  .footer-cotnact-details {
+    padding-top: 22px;
+  }
+  .service-types {
+    transition: all 400ms ease-in-out 0s;
+    padding: 12px;
+  }
+  .services {
+    font-family: Raleway;
+    padding-bottom: 20px;
+  }
+  .iphone-part img {
+    padding-top: 130px;
+    display: none;
+  }
+  .iphone-text-details {
+    position: relative;
+    padding: 15px 0px;
+  }
+  .iphone-text {
+    padding: 45px;
+  }
+  .counting-part {
+    padding: 15px 0px;
+  }
+
+  element.style {
+  }
+  .form-row {
+    padding: 30px 30px 0px 30px;
+  }
+  .form-section {
+    text-align: center;
+    background-image: url(../images/free consultation bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: Montserrat;
+    background-size: cover;
+    padding: 15px 0px;
+  }
+  .blogs {
+    position: relative;
+    font-family: Montserrat;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 12px;
+    text-align: center;
+    margin: 19px 102px;
+  }
+  .big-footer {
+    font-family: "Montserrat";
+    background-color: #101010;
+    padding: 85px 0px;
+    text-align: center;
+  }
+  .footer-contact {
+    text-align: left;
+    padding: 26px;
+  }
+  .footer-quick-links {
+    text-align: left;
+    padding: 48px;
+  }
+  .footer-newsletter input {
+    border: 1px solid transparent;
+    border-radius: 50px;
+    padding: 10px 12px;
+    margin-top: 46px;
+    width: 60%;
+    margin: auto;
+  }
+  .btn-footer {
+    color: #fff !important;
+    background-color: #fb8f2c;
+    border-radius: 50px;
+    padding: 0;
+    padding: 10px 25px;
+    right: 105px;
+    position: absolute;
+    bottom: 0;
+  }
+  .footer-newsletter p {
+    padding-top: 22px;
+  }
+  .footer-newsletter span::after {
+    content: "";
+    position: absolute;
+    right: 0;
+
+    bottom: 0;
+    height: 3px;
+    width: 0px;
+    background-color: rgb(242, 108, 79);
+    transition: 0.5s all ease-in-out;
+  }
+  .footer-newsletter:hover span::after {
+    width: 40px;
+  }
+  .right-content ul li a {
+    text-decoration: none;
+    color: #737272;
+    font-family: "Montserrat";
+    font-size: 12px;
+  }
+  .small-footer {
+    background-color: #000000;
+    padding: 23px 0px;
+    text-align: center;
+  }
+  .small-footer .right-content {
+    padding: 10px 0px;
+  }
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 14%;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 78px;
+    margin: auto;
+  }
+  .iphone-heading span {
+    position: relative;
+    display: none;
+  }
+  .iphone-heading h2 {
+    text-transform: uppercase;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .nav-btn-custom:hover {
+    border: 1px solid rgb(255, 155, 26);
+    background-color: transparent;
+    color: rgb(255, 155, 26);
+    transition: all 400ms ease-in-out 0s;
+    margin-top: 5px;
+  }
+}
+@media (min-width: 0px) and (max-width: 575px) {
+  .top-header-left {
+    padding-bottom: 5px;
+    text-align: center;
+  }
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    text-align: center;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+  }
+  .design-section img {
+    width: 100%;
+  }
+  .banner-section h1 {
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    padding: 20px 0px;
+    font-weight: bold;
+    font-size: 35px;
+  }
+  .banner-details {
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    padding-bottom: 20px;
+  }
+  .banner-section {
+    background-image: url(../images/banner.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    min-height: 55vh;
+  }
+  .square-boxes {
+    margin-bottom: 20px;
+  }
+  .service-types {
+    transition: all 400ms ease-in-out 0s;
+    padding: 12px;
+  }
+  .services {
+    font-family: Raleway;
+    padding-bottom: 20px;
+  }
+  .iphone-part img {
+    padding-top: 130px;
+    display: none;
+  }
+  .iphone-text-details {
+    position: relative;
+    padding: 15px 0px;
+  }
+  .iphone-text {
+    padding: 45px;
+  }
+  .counting-part {
+    padding: 15px 0px;
+  }
+
+  element.style {
+  }
+  .form-row {
+    padding: 30px 30px 0px 30px;
+  }
+  .form-section {
+    text-align: center;
+    background-image: url(../images/free consultation bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: Montserrat;
+    background-size: cover;
+    padding: 15px 0px;
+  }
+  .blogs {
+    position: relative;
+    font-family: Montserrat;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 12px;
+    text-align: center;
+    margin: 19px 102px;
+  }
+  .big-footer {
+    font-family: "Montserrat";
+    background-color: #101010;
+    padding: 85px 0px;
+    text-align: center;
+  }
+  .footer-contact {
+    text-align: left;
+    padding: 26px;
+  }
+  .footer-quick-links {
+    text-align: left;
+    padding: 48px;
+  }
+  .footer-newsletter input {
+    border: 1px solid transparent;
+    border-radius: 50px;
+    padding: 10px 12px;
+    margin-top: 46px;
+    width: 60%;
+    margin: auto;
+  }
+  .btn-footer {
+    color: #fff !important;
+    background-color: #fb8f2c;
+    border-radius: 50px;
+    padding: 0;
+    padding: 10px 25px;
+    right: 111px;
+    position: absolute;
+    bottom: 0;
+  }
+  .footer-newsletter p {
+    padding-top: 22px;
+  }
+  .footer-newsletter span::after {
+    content: "";
+    position: absolute;
+    right: 0;
+
+    bottom: 0;
+    height: 3px;
+    width: 0px;
+    background-color: rgb(242, 108, 79);
+    transition: 0.5s all ease-in-out;
+  }
+  .footer-newsletter:hover span::after {
+    width: 40px;
+  }
+  .right-content ul li a {
+    text-decoration: none;
+    color: #737272;
+    font-family: "Montserrat";
+    font-size: 12px;
+  }
+  .small-footer {
+    background-color: #000000;
+    padding: 23px 0px;
+    text-align: center;
+  }
+  .small-footer .right-content {
+    padding: 10px 0px;
+  }
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 14%;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 78px;
+    margin: auto;
+  }
+  .iphone-heading span {
+    position: relative;
+    display: none;
+  }
+  .iphone-heading h2 {
+    text-transform: uppercase;
+    padding-bottom: 30px;
+    text-align: center;
+  }
+  .nav-btn-custom:hover {
+    border: 1px solid rgb(255, 155, 26);
+    background-color: transparent;
+    color: rgb(255, 155, 26);
+    transition: all 400ms ease-in-out 0s;
+    margin-top: 5px;
+  }
+}
+@media (min-width: 376px) and (max-width: 425px) {
+  .blog-details i {
+    color: rgb(255, 255, 255);
+    background-color: rgb(242, 108, 79);
+    padding: 14px;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    font-size: 16px;
+    position: absolute;
+    top: 237px;
+    overflow: hidden;
+    left: 12px;
+    transition: all 0.5s ease-in-out 0s;
+  }
+  .blogs {
+    position: relative;
+    font-family: Montserrat;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 12px;
+    text-align: center;
+    margin: 15px 48px;
+  }
+  .footer-cotnact-details {
+    padding-top: 18px;
+  }
+  .btn-footer {
+    color: #fff !important;
+    background-color: #fb8f2c;
+    border-radius: 50px;
+    padding: 0;
+    padding: 10px 25px;
+    right: 78px;
+    position: absolute;
+    bottom: 0;
+  }
+  .right-content ul li {
+    margin-left: 5px;
+  }
+  .right-content ul {
+    list-style: none;
+    padding: 0;
+    display: inherit;
+    justify-content: space-evenly;
+    margin-bottom: 0 !important;
+  }
+}
+@media (min-width: 321px) and (max-width: 375px) {
+  .right-content ul {
+    list-style: none;
+    padding: 0;
+    display: inherit;
+    justify-content: unset;
+    margin-bottom: 0 !important;
+  }
+  .top-header-left {
+    padding-bottom: 5px;
+    text-align: center;
+  }
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    text-align: center;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+  }
+  .design-section img {
+    width: 100%;
+  }
+  .banner-section h1 {
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    padding: 20px 0px;
+    font-weight: bold;
+    font-size: 38px;
+  }
+  .banner-details {
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    padding-bottom: 20px;
+  }
+  .banner-section {
+    background-image: url(../images/banner.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    min-height: 55vh;
+  }
+  .square-boxes {
+    margin-bottom: 20px;
+  }
+  .service-types {
+    transition: all 400ms ease-in-out 0s;
+    padding: 12px;
+  }
+  .services {
+    font-family: Raleway;
+    padding-bottom: 20px;
+  }
+  .iphone-part img {
+    padding-top: 130px;
+    display: none;
+  }
+  .iphone-text-details {
+    position: relative;
+    padding: 15px 0px;
+  }
+  .iphone-text {
+    padding: 13px;
+  }
+  .counting-part {
+    padding: 15px 0px;
+  }
+
+  element.style {
+  }
+  .form-row {
+    padding: 30px 30px 0px 30px;
+  }
+  .form-section {
+    text-align: center;
+    background-image: url(../images/free consultation bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: Montserrat;
+    background-size: cover;
+    padding: 15px 0px;
+  }
+  .blogs {
+    position: relative;
+    font-family: Montserrat;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 12px;
+    text-align: center;
+    margin: 12px 7px;
+  }
+  .big-footer {
+    font-family: "Montserrat";
+    background-color: #101010;
+    padding: 85px 0px;
+    text-align: center;
+  }
+  .footer-contact {
+    text-align: left;
+    padding: 26px;
+  }
+  .footer-quick-links {
+    text-align: left;
+    padding: 48px;
+  }
+  .footer-newsletter input {
+    border: 1px solid transparent;
+    border-radius: 50px;
+    padding: 10px 12px;
+    margin-top: 46px;
+    width: 95%;
+    margin: auto;
+  }
+  .btn-footer {
+    color: #fff !important;
+    background-color: #fb8f2c;
+    border-radius: 50px;
+    padding: 0;
+    padding: 10px 25px;
+    right: 8px;
+    position: absolute;
+    bottom: 0;
+  }
+  .footer-newsletter p {
+    padding-top: 22px;
+  }
+  .footer-newsletter span::after {
+    content: "";
+    position: absolute;
+    right: 0;
+
+    bottom: 0;
+    height: 3px;
+    width: 0px;
+    background-color: rgb(242, 108, 79);
+    transition: 0.5s all ease-in-out;
+  }
+  .footer-newsletter:hover span::after {
+    width: 40px;
+  }
+  .right-content ul li a {
+    text-decoration: none;
+    color: #737272;
+    font-family: "Montserrat";
+    font-size: 12px;
+  }
+  .small-footer {
+    background-color: #000000;
+    padding: 23px 0px;
+    text-align: center;
+  }
+  .small-footer .right-content {
+    padding: 10px 0px;
+  }
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 14%;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 78px;
+    margin: auto;
+  }
+  .iphone-heading span {
+    position: relative;
+    display: none;
+  }
+  .iphone-heading h2 {
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    text-align: center;
+    padding-top: 20px;
+  }
+  .nav-btn-custom:hover {
+    border: 1px solid rgb(255, 155, 26);
+    background-color: transparent;
+    color: rgb(255, 155, 26);
+    transition: all 400ms ease-in-out 0s;
+    margin-top: 5px;
+  }
+  .footer-cotnact-details {
+    padding-top: 8px;
+  }
+  .clients p {
+    color: rgb(110, 110, 110);
+    padding: 20px 15%;
+    font-size: 14px;
+    text-transform: capitalize;
+  }
+  .testimonial-heading {
+    padding: 9px 0px;
+  }
+  .blog-details i {
+    color: rgb(255, 255, 255);
+    background-color: rgb(242, 108, 79);
+    padding: 14px;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    font-size: 16px;
+    position: absolute;
+    top: 229px;
+    overflow: hidden;
+    left: 12px;
+    transition: all 0.5s ease-in-out 0s;
+  }
+  .heading p {
+    color: rgb(110, 110, 110);
+    padding: 20px 1px;
+  }
+  .service-section {
+    text-align: center;
+    padding: 0px 0px;
+  }
+  .btn-1-custom {
+    padding: 10px 38px;
+    margin-bottom: 11px;
+  }
+  .banner-main-row {
+    min-height: 68vh;
+    align-items: center;
+    display: flex;
+  }
+  .counting-section span {
+    font-size: 25px;
+    font-weight: 500;
+  }
+  .counting-section h6 {
+    text-transform: uppercase;
+    font-size: 15px;
+    padding-top: 12px;
+  }
+  .box-row {
+    padding-top: 31px;
+  }
+}
+@media (min-width: 0px) and (max-width: 320px) {
+  .box-row {
+    padding-top: 30px;
+  }
+  .right-content ul {
+    list-style: none;
+    padding: 0;
+    display: inherit;
+    justify-content: unset;
+    margin-bottom: 0 !important;
+  }
+  .top-header-left {
+    padding-bottom: 5px;
+    text-align: center;
+  }
+  .navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    text-align: center;
+  }
+  .navbar-light .navbar-nav .nav-link {
+    color: rgba(0, 0, 0, 0.7);
+    display: inline-block;
+  }
+  .design-section img {
+    width: 100%;
+  }
+  .banner-section h1 {
+    text-align: center;
+    font-family: Raleway, sans-serif;
+    padding: 20px 0px;
+    font-weight: bold;
+    font-size: 38px;
+  }
+  .banner-details {
+    text-align: center;
+    font-family: Raleway;
+    font-size: 16px;
+    padding-bottom: 20px;
+  }
+  .banner-section {
+    background-image: url(../images/banner.png);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: rgb(255, 255, 255);
+    min-height: 55vh;
+  }
+  .square-boxes {
+    margin-bottom: 20px;
+  }
+  .service-types {
+    transition: all 400ms ease-in-out 0s;
+    padding: 12px;
+  }
+  .services {
+    font-family: Raleway;
+    padding-bottom: 20px;
+  }
+  .iphone-part img {
+    padding-top: 130px;
+    display: none;
+  }
+  .iphone-text-details {
+    position: relative;
+    padding: 15px 0px;
+  }
+  .iphone-text {
+    padding: 13px;
+  }
+  .counting-part {
+    padding: 15px 0px;
+  }
+
+  element.style {
+  }
+  .form-row {
+    padding: 30px 30px 0px 30px;
+  }
+  .form-section {
+    text-align: center;
+    background-image: url(../images/free consultation bg.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    font-family: Montserrat;
+    background-size: cover;
+    padding: 15px 0px;
+  }
+  .blogs {
+    position: relative;
+    font-family: Montserrat;
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 12px;
+    text-align: center;
+    margin: 12px 7px;
+  }
+  .big-footer {
+    font-family: "Montserrat";
+    background-color: #101010;
+    padding: 85px 0px;
+    text-align: center;
+  }
+  .footer-contact {
+    text-align: left;
+    padding: 26px;
+  }
+  .footer-quick-links {
+    text-align: left;
+    padding: 48px;
+  }
+  .footer-newsletter input {
+    border: 1px solid transparent;
+    border-radius: 50px;
+    padding: 10px 12px;
+    margin-top: 46px;
+    width: 95%;
+    margin: auto;
+  }
+  .btn-footer {
+    color: #fff !important;
+    background-color: #fb8f2c;
+    border-radius: 50px;
+    padding: 0;
+    padding: 10px 25px;
+    right: 8px;
+    position: absolute;
+    bottom: 0;
+  }
+  .footer-newsletter p {
+    padding-top: 22px;
+  }
+  .footer-newsletter span::after {
+    content: "";
+    position: absolute;
+    right: 0;
+
+    bottom: 0;
+    height: 3px;
+    width: 0px;
+    background-color: rgb(242, 108, 79);
+    transition: 0.5s all ease-in-out;
+  }
+  .footer-newsletter:hover span::after {
+    width: 40px;
+  }
+  .right-content ul li a {
+    text-decoration: none;
+    color: #737272;
+    font-family: "Montserrat";
+    font-size: 12px;
+  }
+  .small-footer {
+    background-color: #000000;
+    padding: 23px 0px;
+    text-align: center;
+  }
+  .small-footer .right-content {
+    padding: 10px 0px;
+  }
+  .owl-carousel .owl-item img {
+    display: block;
+    width: 14%;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius: 78px;
+    margin: auto;
+  }
+  .iphone-heading span {
+    position: relative;
+    display: none;
+  }
+  .iphone-heading h2 {
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    text-align: center;
+    padding-top: 20px;
+  }
+  .nav-btn-custom:hover {
+    border: 1px solid rgb(255, 155, 26);
+    background-color: transparent;
+    color: rgb(255, 155, 26);
+    transition: all 400ms ease-in-out 0s;
+    margin-top: 5px;
+  }
+  .footer-cotnact-details {
+    padding-top: 8px;
+  }
+  .clients p {
+    color: rgb(110, 110, 110);
+    padding: 20px 15%;
+    font-size: 14px;
+    text-transform: capitalize;
+  }
+  .testimonial-heading {
+    padding: 9px 0px;
+  }
+  .blog-details i {
+    color: rgb(255, 255, 255);
+    background-color: rgb(242, 108, 79);
+    padding: 14px;
+    border: 1px solid transparent;
+    border-radius: 50px;
+    font-size: 16px;
+    position: absolute;
+    top: 229px;
+    overflow: hidden;
+    left: 12px;
+    transition: all 0.5s ease-in-out 0s;
+  }
+  .heading p {
+    color: rgb(110, 110, 110);
+    padding: 20px 1px;
+  }
+  .service-section {
+    text-align: center;
+    padding: 0px 0px;
+  }
+  .btn-1-custom {
+    padding: 10px 38px;
+    margin-bottom: 11px;
+  }
+  .banner-main-row {
+    min-height: 68vh;
+    align-items: center;
+    display: flex;
+  }
+}
